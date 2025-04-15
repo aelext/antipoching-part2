@@ -19,4 +19,4 @@ Output following the construction of the Hamiltonian Circuit
 
 Output following pairing with the 2-opt algorithm
 <img width="1098" alt="Screenshot 2025-04-14 at 18 46 38" src="https://github.com/user-attachments/assets/10828d92-a978-4bad-aae3-bee37707e210" />
-Final Distance: 46.95 kilometers
+Final Distance: 46.947 kilometers
